@@ -1,5 +1,5 @@
 # Remembering to Be Fair: Non-Markovian Fairness in Sequenctial Decision Making
-Code for the submission.
+Code for the experiments. 
 
 ### Instructions to run DQN approaches for resource allocation env:
 #### Run DQN with full representation: 
